@@ -1,1 +1,3 @@
-put keywords here, one per line
+type beat
+trap type beat
+melodic type beat
