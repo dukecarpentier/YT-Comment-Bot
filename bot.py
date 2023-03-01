@@ -135,10 +135,8 @@ def comment_page(driver, urls, comment):
 def random_comment():
     # You can edit these lines if you want to add more comments===================================
     comments = [
-        'Loved it',
-        'Hello',
-        '-loved it-',
-        '_good job_'
+        'Loved it! Sounds just like something my homie Dukey would make, check him out!',
+
 
     ]
 # =============================================================================================
